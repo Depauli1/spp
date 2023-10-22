@@ -1,1 +1,1 @@
-# spp Personal guide in solidity learning
+# Personal guide in solidity learning
